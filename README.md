@@ -3,4 +3,5 @@
 - Used pandas to structure and manipulate data
 - Created gif using seaborn
 
-<img src="https://github.com/piwi3/Philip_Witte/blob/main/images/gapminder_income_co2.gif?raw=true" width="400">
+<img src="https://github.com/piwi3/gap_minder_gif/blob/main/images/gapminder_income_co2.gif" width="400"><br/>
+_Figure 1: CO2 vs. income over time (gapminder data)_<br/>
